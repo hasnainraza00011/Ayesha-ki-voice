@@ -1,0 +1,8 @@
+
+TOKEN = "your_bot_token_here"
+BOT_USERNAME = "your_bot_username_here"
+NOVITA_API_KEY = "sk_FGtv5Uugh4nK14Vqsz9xCA4GUp14TFTOxuQlSfoSRk0"
+
+USDT_ADDRESS = "TAcYe21THzAqpByo9rF5mYSDmFqfBEpLwr"
+EASYPAISA_NAME = "ABDUL LATIF SIAL"
+EASYPAISA_NUMBER = "03183688913"
